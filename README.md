@@ -1,5 +1,5 @@
 # BrandonDiaz
-Oi me chamo Brandon Diaz e Atualmente estou estudando 
+Oi me chamo Brandon Diaz e Atualmente estou estudando Banco de dados, Data science, Big data e tudo que envolve a minha área
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonDiaz12&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
 
